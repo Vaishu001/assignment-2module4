@@ -1,0 +1,3 @@
+listCompLang =['CPP', 'C', 'Python', 'CPP', 'Java', 'Java']
+listUniqueCL = list(set(listCompLang))
+print listUniqueCL;
